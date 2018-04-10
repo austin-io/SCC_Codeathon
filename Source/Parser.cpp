@@ -12,7 +12,7 @@ void FileParser::init(){
     
     while(mStart_I <= mEnd_I){
         
-        //file.open("data_files/cisp-fa-2010.txt");
+        //file.open("data_files/cisp-fa-2010.txt"); // Example file tree
         file.open(mPathname_s + std::to_string(mStart_I) + ".txt");
         
         if(!file.is_open()){
