@@ -1,3 +1,11 @@
+/**
+ *  Austin Poberezhnik @ github.com/roborhin0
+ *  Felix Fries @ github.com/zenbuddhistdog
+ *
+ *  SCC Codeathon Project
+ *  
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
