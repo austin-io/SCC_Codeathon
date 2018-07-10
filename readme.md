@@ -22,3 +22,5 @@ Once you have the basic problem solved, please consider the following:
 Historical data: cisp-sem-year.txt (eg. cisp-sp-2018.txt would have the CISP courses offered at SCC this semester).  
 Courses taken: w1234567.txt (example students labeled by their wID number)
 Courses needed for major or certificate: abbrev.txt (eg. ascs.txt would have the courses required for an AS in CS, if more than one course is on a line then it is one or the other). 
+
+(This project has since been abandoned...)
